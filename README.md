@@ -1,4 +1,4 @@
-- 👋 Hi, I’m João Vitor Meddeiros Domingos
+- 👋 Hi, I’m João Vitor Medeiros Domingos
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently learning React
 - 📫 How to reach me @JoaoVitorMD_ linkedin.com/in/joão-vitor-domingos
