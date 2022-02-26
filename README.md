@@ -1,4 +1,6 @@
 ## 👋 Olá, Me chamo João Vitor Medeiros Domingos
+- Atualmente trabalho com Front-End
+- Estudando React
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-domingos/)
